@@ -69,10 +69,10 @@ export default {
 ## Options
 | Options | Type | Description | Default |
 |:--|:--|:--|:--|
-| validColor | String | border color input when code is valid | 'red' |
-| inValidColor | String | border color input when code is invalid | 'green'  |
+| invalidColor | String | border color input when code is valid | 'red' |
+| validColor | String | border color input when code is invalid | 'green'  |
 | textColor | String | ordinary text color| black |
-| font | String | wave height | 17px "Noto Sans Japanese", sans-serif |
+| font | String | wave height | 17px "HiraKakuProN-W4-AlphaNum" |
 | placeholder |  String | placeholder on empty | Please Enter Code |
 
 
